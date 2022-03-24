@@ -1,0 +1,9 @@
+flask-ask
+datetime
+requests
+tornado
+pathlib
+zappa
+boto3
+cryptography==2.3.1
+pyOpenSSL==18.0.0
